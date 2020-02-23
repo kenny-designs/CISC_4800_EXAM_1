@@ -23,7 +23,7 @@ html {
 
 #course-table {
   width: 90%;
-  margin-right: auto;
+  margin: auto;
 }
 
 #course-table th {
