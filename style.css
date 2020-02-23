@@ -24,6 +24,7 @@ html {
 #course-table {
   width: 90%;
   margin: auto;
+  border-collapse: collapse;
 }
 
 #course-table th {
