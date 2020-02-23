@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+
+.centered-grey-text {
+  color: grey;
+  text-align: center
+}
+
+#top-container {
+  text-align: center;
+}
+
+#course-table {
+  width: 90%;
+  margin: auto;
+}
+
+#course-table th {
+  text-align: left;
+}
