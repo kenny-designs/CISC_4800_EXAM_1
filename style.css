@@ -11,6 +11,16 @@ html {
   text-align: center;
 }
 
+#top-container h1 {
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+#top-container h2 {
+  font-weight: 100;
+  margin-top: 0;
+}
+
 #course-table {
   width: 90%;
   margin-right: auto;
